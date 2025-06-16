@@ -86,7 +86,7 @@ See the `/results` and `/report.pdf` for details.
 ## 🧾 Citation
 If you use this project or report in your research or academic work:
 ```
-@project{dardor2025spmv,
+@project{SPMV,
   title={Optimizing SpMV: A Comparative Chunk\_Size Study},
   author={Rochdi Dardor},
   institution={Université Paris-Saclay, IATIC-5},
@@ -94,6 +94,14 @@ If you use this project or report in your research or academic work:
   note={Supervised by M. William Jalby}
 }
 ```
+
+## ⚠️ Important Notice
+
+> **The full source code is not publicly available in this repository** for academic and licensing reasons.  
+> However, if you are interested in the **full source code** or the **complete PDF report**, feel free to **contact me directly via email**:
+
+📩 **rochdi.dardor@ens.uvsq.fr**
+
 
 ## 👨‍💻 Author
 **Rochdi Dardor**  
